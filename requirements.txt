@@ -1,0 +1,14 @@
+## **File: `requirements.txt`**
+```
+# Hugging Face libraries (pre-trained models)
+transformers
+sentence-transformers
+
+# PyTorch (backend for Hugging Face models)
+torch
+
+# Other dependencies
+gradio
+numpy
+scikit-learn
+PyPDF2
